@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Robin Klein",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": ["twitch","bot","twitch-bot","twitch-kit","twitch-api","twitch.tv"],
+  "homepage": "https://robin.software",
+  "repository": {"url": "https://github.com/Erlaubnis/twitch-kit"},
   "dependencies": {
     "tls": "0.0.1"
   }
