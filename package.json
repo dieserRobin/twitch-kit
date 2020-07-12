@@ -1,0 +1,14 @@
+{
+  "name": "twitch-kit",
+  "version": "1.0.0",
+  "description": "Twitch Bot Package with amazing features like Title Update.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Klein",
+  "license": "ISC",
+  "dependencies": {
+    "tls": "0.0.1"
+  }
+}
