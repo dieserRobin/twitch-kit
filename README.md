@@ -9,7 +9,7 @@ With this package, you can easily build a powerful Twitch Bot.
 # Getting started
 
 ```
-const TwitchBot = require('../index');
+const TwitchBot = require('twitch-kit');
 const Bot = new TwitchBot({
     username: "karpfenthebot",
     oauth: "oauth:XYZ",

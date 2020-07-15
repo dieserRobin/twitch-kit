@@ -1,6 +1,6 @@
 {
   "name": "twitch-kit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Twitch Bot Package with amazing features like Title Update.",
   "main": "index.js",
   "scripts": {

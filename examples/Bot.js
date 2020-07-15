@@ -1,4 +1,4 @@
-const TwitchBot = require('../index');
+const TwitchBot = require('twitch-kit');
 const Bot = new TwitchBot({
     username: "karpfenthebot",
     oauth: "oauth:XYZ",
