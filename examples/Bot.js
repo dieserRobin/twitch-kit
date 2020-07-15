@@ -1,14 +1,3 @@
-# Twitch Kit
-
-With this package, you can easily build a powerful Twitch Bot.
-
-# Installation Info
-
-`npm install twitch-kit`
-
-# Getting started
-
-```
 const TwitchBot = require('../index');
 const Bot = new TwitchBot({
     username: "karpfenthebot",
@@ -173,10 +162,3 @@ Bot.on('ban', (event) => {
     Bot.say(`The User ${event.target_username} was banned.`);
 })
 
-
-```
-
-# License
-This Project is licensed under the MIT License, read more in the [License](LICENSE) file.
-
-This Package was built by [Robin Klein](https://robin.software).

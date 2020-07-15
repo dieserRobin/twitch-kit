@@ -1,6 +1,6 @@
 {
   "name": "twitch-kit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Twitch Bot Package with amazing features like Title Update.",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,20 @@
   },
   "author": "Robin Klein",
   "license": "MIT",
-  "keywords": ["twitch","bot","twitch-bot","twitch-kit","twitch-api","twitch.tv"],
+  "keywords": [
+    "twitch",
+    "bot",
+    "twitch-bot",
+    "twitch-kit",
+    "twitch-api",
+    "twitch.tv"
+  ],
   "homepage": "https://robin.software",
-  "repository": {"url": "https://github.com/Erlaubnis/twitch-kit"},
+  "repository": {
+    "url": "https://github.com/dieserRobin/twitch-kit"
+  },
   "dependencies": {
-    "tls": "0.0.1"
+    "tls": "0.0.1",
+    "websocket": "^1.0.31"
   }
 }
