@@ -300,6 +300,14 @@ Parameters:
 - Message: String (>= 500)
 - Channel Name: String
 
+### me
+
+Send Highlighted Message
+
+Parameters:
+- Message: String (>= 496)
+- Channel Name: String
+
 ### timeout
 
 Timeout a specific User in Channel
